@@ -65,6 +65,8 @@ Updated: 16 October 2019
 
 * Blyman, K., Arney, K., **Adams, B.**, Hudson, T. (Abstract Accepted, Manuscript Under Review). Does your course effectively promote creativity?: Introducing the mathematical problem solving creativity rubric. *Journal of Humanistic Mathematics* - Creativity Special Issue.
 
+* **Adams, B.**, Crow, M., Fairfield, W., Hannon, B., Kyle, T., Thomas, D. (Manuscript Under Review). Use and Abuse of Dietary Supplements in Persons with Diabetes.  *Nutrition and Diabetes*.
+
 * **Adams, B.**, Cummiskey, K., Jonas, B. (Abstract Accepted). Developing multivariable thinking in introductory courses using tidyverse. *Journal of Statistics Education* - Computing in the Statistics and Data Science Curriculum Special Issue.
 
 * **Adams, B.**, Arney, K., Blyman, K., Bromberg, L., del Cuadro-Zimmerman, D. (Manuscript in Progress). Positive impacts of discovery learning assessments.
