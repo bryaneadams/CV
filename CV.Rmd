@@ -42,15 +42,16 @@ Updated: 16 October 2019
     *United States Military Academy* \hfill 2017-2019
     
 # Courses Written and Developed
+* **United States Military Academy**
 * **MA206Y** - Introduction to Data Analysis and Statistics \hfill 2019
 
 # Courses Directed
-* **West Point**
+* **United States Military Academy**
 * **MA206Y** - Introduction to Data Analysis and Statistics \hfill 2019
 * **MA206** - (Assistant) Introduction to Probability and Statistics \hfill 2018-2019
 
 # Courses Taught 
-* **West Point**
+* **United States Military Academy**
 * **MA206Y** - Introduction to Data Analysis and Statistics \hfill 2019
 * **MA206** - Introduction to Probability and Statistics \hfill 2018 - 2019
 * **MA103** - Mathematical Modeling and Introduction to Calculus \hfill 2017
