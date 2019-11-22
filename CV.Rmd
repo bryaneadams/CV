@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 author: "MAJ Bryan Adams"
-email: bryan.adams@westpoint.edu
+email: email
 output:
   pdf_document:
     latex_engine: xelatex
@@ -15,8 +15,8 @@ jobtitle: Assistant Professor, United States Military Academy
 keywords: academic CV, West Point, Army
 linkcolor: blue
 fontawesome: yes
-phone: 540-759-9339
-address: 3126D Radiere Loop West Point, NY 10996
+phone: Phone
+address: Address
 updated: no
 urlcolor: blue
 ---
